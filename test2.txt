@@ -1,0 +1,35 @@
+Hello World !
+
+step:1 
+
+git clone https://github.com/SureshMurugaiyan/newGitTest.git
+
+step:2 
+
+create a file name test.txt
+
+git status
+
+step:3
+
+git add text.txt
+
+
+step:4 
+
+
+git commit -m " added a test.txt"
+
+
+
+step:5
+
+git push
+
+
+step:5
+
+git pull
+
+
+Step:6
